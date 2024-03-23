@@ -401,6 +401,10 @@ body {
     .navbar-brand {
       font-size: 24px;
     }
+    video{
+        height: 100vh;
+        width: 100vw;
+    }
     .nav-item a {
       font-size: 16px;
       margin-left: 1.5rem;
